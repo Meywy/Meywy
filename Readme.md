@@ -26,5 +26,6 @@
 
 # 📈 Stats
 ![](https://github-readme-streak-stats-meywys-projects.vercel.app/?user=Meywy&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-stats-meywys-projects.vercel.app/api?username=Meywy&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://github-readme-stats-meywys-projects.vercel.app/api/top-langs/?username=Meywy&layout=compact&exclude_repo=github-readme-stats,readme,photos,github-readme-streak-stats,meywy.github.io&theme=tokyonight&hide=html,css&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-stats-meywys-projects.vercel.app/api?username=Meywy&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
+

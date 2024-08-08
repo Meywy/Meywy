@@ -12,8 +12,8 @@
 
 # 💻 Tools that I use
 [![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/en/)
-[![Intelij](https://img.shields.io/badge/IntelIj-%233366ff?style=for-the-badge&logo=intellijidea&logoColor=%23FFF)](https://www.jetbrains.com/idea/)
-[![SpigotAPI](https://img.shields.io/badge/SpigotAPI-%23ED8106?style=for-the-badge&logo=spigotmc&logoColor=%23FFF)](https://hub.spigotmc.org/javadocs/spigot/)
+[![IntelliJ](https://img.shields.io/badge/IntelliJ-%233366ff?style=for-the-badge&logo=intellijidea&logoColor=%23FFF)](https://www.jetbrains.com/idea/)
+[![SpigotAPI](https://img.shields.io/badge/Spigot_API-%23ED8106?style=for-the-badge&logo=spigotmc&logoColor=%23FFF)](https://hub.spigotmc.org/javadocs/spigot/)
 [![Android](https://img.shields.io/badge/Android-%2334A853?style=for-the-badge&logo=android&logoColor=%23FFF)](https://www.android.com/)
 [![Git](https://img.shields.io/badge/Git-%23F05032?style=for-the-badge&logo=git&logoColor=%23FFF)](https://git-scm.com/)
 [![Github](https://img.shields.io/badge/GitHub-%23181717?style=for-the-badge&logo=github&logoColor=%23FFF)](https://github.com/)

@@ -24,6 +24,8 @@
 [![Google Cloud](https://img.shields.io/badge/Google_Cloud-%234285F4?style=for-the-badge&logo=googlecloud&logoColor=%23FFF)](https://cloud.google.com/)
 [![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=%23000)](https://www.javascript.com/)
 [![React](https://img.shields.io/badge/React-%2361DAFB?style=for-the-badge&logo=react&logoColor=%23000)](https://react.dev/)
+[![Astro](https://img.shields.io/badge/Astro-%23BC52EE?style=for-the-badge&logo=astro&logoColor=%23fff&labelColor=%2300)](https://astro.build/)
+
 
 # 📈 Stats
 <div align=center>

@@ -1,5 +1,4 @@
 # ✨ About me  
-![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=Meywy.Meywy&left_text=Visitors) <br>
 🔭 I’m currently working on Small Projects <br> 💬 Ask me about Anything about me or related to my Projects <br> 🤝 I’m looking to help you with Minecraft Plugin Development <br>  🌱 I’m currently learning Advanced API's for Minecraft <br> <br> [![](https://img.shields.io/badge/Buy_Me_A_Coffe-%23FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=%23000)](https://buymeacoffee.com/meywy)
 
 ## 📳 Socials

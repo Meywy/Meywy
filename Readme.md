@@ -1,5 +1,5 @@
 # ✨ About me  
-🔭 I’m currently working on Small Projects <br> 💬 Ask me about Anything related to me or my projects <br> 🤝 I’m looking to help you with Minecraft Plugin Development <br>  🌱 I’m currently learning Advanced API's for Minecraft <br> <br> [![](https://img.shields.io/badge/Buy_Me_A_Coffe-%23FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=%23000)](https://buymeacoffee.com/meywy)
+🔭 I’m currently working on some of my projects <br> 💬 Ask me about Anything related to me or my projects <br> 🤝 I’m looking to help you with Minecraft Plugin Development <br><br> [![](https://img.shields.io/badge/Buy_Me_A_Coffe-%23FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=%23000)](https://buymeacoffee.com/meywy)
 
 ## 📳 Socials
 [![Portfolio](https://img.shields.io/badge/Porfolio-%23008000?style=plastic&logoColor=%23FFF)](https://meywy.is-a.dev)

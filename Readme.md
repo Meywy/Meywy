@@ -2,7 +2,6 @@
 🔭 Working on PurpleAddons lately, sometimes on PurpleClient <br> 💬 Ask me about Anything related to me or my projects <br> 🤝 I’m looking to help you with Minecraft Plugin Development <br><br> [![](https://img.shields.io/badge/Buy_Me_A_Coffe-%23FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=%23000)](https://buymeacoffee.com/meywy)
 
 ## 📳 Socials
-[![Portfolio](https://img.shields.io/badge/Porfolio-%23008000?style=plastic&logoColor=%23FFF)](https://meywy.is-a.dev)
 [![Mail](https://img.shields.io/badge/Mail-%23EA4335?style=plastic&logo=gmail&logoColor=%23fff)](mailto:business@meywy.is-a.dev)
 [![Twitter](https://img.shields.io/badge/Twitter-%23000?style=plastic&logo=x&logoColor=%23FFF)](https://x.com/meywy_dev) 
 [![Discord](https://img.shields.io/badge/Discord-%235865F2?style=plastic&logo=discord&logoColor=%23FFF)](https://discordapp.com/users/923162990419791913) 

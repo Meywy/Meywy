@@ -1,5 +1,5 @@
 # ✨ About me  
-🔭 Working on PurpleAddons lately, sometimes on PurpleClient <br> 💬 Ask me about Anything related to me or my projects <br> 🤝 I’m looking to help you with Minecraft Plugin Development <br><br> [![](https://img.shields.io/badge/Buy_Me_A_Coffe-%23FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=%23000)](https://buymeacoffee.com/meywy)
+🔭 Kinda washed Developer, that didn't do anything in past 7 months <br> <br> [![](https://img.shields.io/badge/Buy_Me_A_Coffe-%23FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=%23000)](https://buymeacoffee.com/meywy)
 
 ## 📳 Socials
 [![Mail](https://img.shields.io/badge/Mail-%23EA4335?style=plastic&logo=gmail&logoColor=%23fff)](mailto:business@meywy.is-a.dev)
@@ -13,18 +13,11 @@
 [![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/en/)
 [![IntelliJ](https://img.shields.io/badge/IntelliJ-%233366ff?style=for-the-badge&logo=intellijidea&logoColor=%23FFF)](https://www.jetbrains.com/idea/)
 [![SpigotAPI](https://img.shields.io/badge/Spigot_API-%23ED8106?style=for-the-badge&logo=spigotmc&logoColor=%23FFF)](https://hub.spigotmc.org/javadocs/spigot/)
-[![Android](https://img.shields.io/badge/Android-%2334A853?style=for-the-badge&logo=android&logoColor=%23FFF)](https://www.android.com/)
 [![Git](https://img.shields.io/badge/Git-%23F05032?style=for-the-badge&logo=git&logoColor=%23FFF)](https://git-scm.com/)
 [![Github](https://img.shields.io/badge/GitHub-%23181717?style=for-the-badge&logo=github&logoColor=%23FFF)](https://github.com/)
 [![Vscode](https://img.shields.io/badge/VSCODE-%230078d7?style=for-the-badge&logoColor=%23FFF)](https://code.visualstudio.com/)
 [![Linux](https://img.shields.io/badge/Linux-%23000?style=for-the-badge&logo=linux&logoColor=%23FFF)](https://www.linux.org/)
-[![OBS](https://img.shields.io/badge/OBS-%23302E31?style=for-the-badge&logo=obsstudio&logoColor=%23FFF)](https://obsproject.com/)
-[![Android Studio](https://img.shields.io/badge/Android_studio-%233DDC84?style=for-the-badge&logo=androidstudio&logoColor=%23FFF)](https://developer.android.com/studio)
 [![Google Cloud](https://img.shields.io/badge/Google_Cloud-%234285F4?style=for-the-badge&logo=googlecloud&logoColor=%23FFF)](https://cloud.google.com/)
-[![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=%23000)](https://www.javascript.com/)
-[![React](https://img.shields.io/badge/React-%2361DAFB?style=for-the-badge&logo=react&logoColor=%23000)](https://react.dev/)
-[![Astro](https://img.shields.io/badge/Astro-%23BC52EE?style=for-the-badge&logo=astro&logoColor=%23fff&labelColor=%2300)](https://astro.build/)
-
 
 # 📈 Stats
 <div align=center>

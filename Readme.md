@@ -1,5 +1,5 @@
 # ✨ About me  
-🔭 Kinda washed Developer, that didn't do anything in past 7 months <br> <br> [![](https://img.shields.io/badge/Buy_Me_A_Coffe-%23FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=%23000)](https://buymeacoffee.com/meywy)
+🔭 Lately Bored<br> <br> [![](https://img.shields.io/badge/Buy_Me_A_Coffe-%23FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=%23000)](https://buymeacoffee.com/meywy)
 
 ## 📳 Socials
 [![Mail](https://img.shields.io/badge/Mail-%23EA4335?style=plastic&logo=gmail&logoColor=%23fff)](mailto:business@meywy.is-a.dev)

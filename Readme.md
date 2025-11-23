@@ -17,6 +17,7 @@
 [![Github](https://img.shields.io/badge/GitHub-%23181717?style=for-the-badge&logo=github&logoColor=%23FFF)](https://github.com/)
 [![Google Cloud](https://img.shields.io/badge/Google_Cloud-%234285F4?style=for-the-badge&logo=googlecloud&logoColor=%23FFF)](https://cloud.google.com/)
 [![Neovim](https://img.shields.io/badge/Neovim-grey?style=for-the-badge&logo=neovim)](https://neovim.io/)
+[![Zed](https://img.shields.io/badge/Zed-grey?style=for-the-badge&logo=zedindustries)](https://zed.dev/)
 [![IntelliJ](https://img.shields.io/badge/IntelliJ-%233366ff?style=for-the-badge&logo=intellijidea&logoColor=%23FFF)](https://www.jetbrains.com/idea/)
 [![Linux](https://img.shields.io/badge/Linux-%23000?style=for-the-badge&logo=linux&logoColor=%23FFF)](https://www.linux.org/)
 

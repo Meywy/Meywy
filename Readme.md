@@ -11,13 +11,14 @@
 
 # 💻 Tools that I use
 [![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/en/)
-[![IntelliJ](https://img.shields.io/badge/IntelliJ-%233366ff?style=for-the-badge&logo=intellijidea&logoColor=%23FFF)](https://www.jetbrains.com/idea/)
+[![Kotlin](https://img.shields.io/badge/Kotlin-purple?style=for-the-badge&logo=kotlin)](https://kotlinlang.org/)
 [![SpigotAPI](https://img.shields.io/badge/Spigot_API-%23ED8106?style=for-the-badge&logo=spigotmc&logoColor=%23FFF)](https://hub.spigotmc.org/javadocs/spigot/)
 [![Git](https://img.shields.io/badge/Git-%23F05032?style=for-the-badge&logo=git&logoColor=%23FFF)](https://git-scm.com/)
 [![Github](https://img.shields.io/badge/GitHub-%23181717?style=for-the-badge&logo=github&logoColor=%23FFF)](https://github.com/)
-[![Vscode](https://img.shields.io/badge/VSCODE-%230078d7?style=for-the-badge&logoColor=%23FFF)](https://code.visualstudio.com/)
-[![Linux](https://img.shields.io/badge/Linux-%23000?style=for-the-badge&logo=linux&logoColor=%23FFF)](https://www.linux.org/)
 [![Google Cloud](https://img.shields.io/badge/Google_Cloud-%234285F4?style=for-the-badge&logo=googlecloud&logoColor=%23FFF)](https://cloud.google.com/)
+[![Neovim](https://img.shields.io/badge/Neovim-grey?style=for-the-badge&logo=neovim)](https://neovim.io/)
+[![IntelliJ](https://img.shields.io/badge/IntelliJ-%233366ff?style=for-the-badge&logo=intellijidea&logoColor=%23FFF)](https://www.jetbrains.com/idea/)
+[![Linux](https://img.shields.io/badge/Linux-%23000?style=for-the-badge&logo=linux&logoColor=%23FFF)](https://www.linux.org/)
 
 # 📈 Stats
 <div align=center>

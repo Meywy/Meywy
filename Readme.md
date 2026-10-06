@@ -7,5 +7,5 @@
     </a>
   </p>
 
-  <img src="https://github-readme-statss-amber.vercel.app/api/top-langs/?username=Meywy&theme=dark&border_radius=20" width="500" alt="GitHub Languages" />
+  <img src="https://github-readme-statss-amber.vercel.app/api/top-langs/?username=Meywy&theme=dark&border_radius=20&v=1" width="500" alt="GitHub Languages" />
 </div>

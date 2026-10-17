@@ -1,5 +1,5 @@
 <div align="center">
-  <h3>🔭 Lately Bored</h3>
+  <h3>🔭 Lately More Bored</h3>
 
   <p>
     <a href="https://buymeacoffee.com/meywy">
